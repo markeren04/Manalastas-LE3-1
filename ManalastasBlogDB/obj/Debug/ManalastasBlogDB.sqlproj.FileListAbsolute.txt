@@ -1,0 +1,10 @@
+C:\Users\Mark\source\repos\ManalastasLE2\ManalastasBlogDB\bin\Debug\ManalastasBlogDB.dacpac
+C:\Users\Mark\source\repos\ManalastasLE2\ManalastasBlogDB\bin\Debug\ManalastasBlogDB.dll
+C:\Users\Mark\source\repos\ManalastasLE2\ManalastasBlogDB\bin\Debug\ManalastasBlogDB.pdb
+C:\Users\Mark\source\repos\ManalastasLE2\ManalastasBlogDB\obj\Debug\ManalastasBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\ManalastasLE2\ManalastasBlogDB\obj\Debug\ManalastasBlogDB.dll
+C:\Users\Mark\source\repos\ManalastasLE2\ManalastasBlogDB\obj\Debug\ManalastasBlogDB.pdb
+C:\Users\Mark\source\repos\ManalastasLE2\ManalastasBlogDB\obj\Debug\Model.xml
+C:\Users\Mark\source\repos\ManalastasLE2\ManalastasBlogDB\obj\Debug\refactor.xml
+C:\Users\Mark\source\repos\ManalastasLE2\ManalastasBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Mark\source\repos\ManalastasLE2\ManalastasBlogDB\obj\Debug\predeploy.sql
